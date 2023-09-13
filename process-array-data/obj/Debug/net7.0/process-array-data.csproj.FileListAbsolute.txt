@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/process-array-data/bin/Debug/net7.0/process-array-data
+/Users/raf/Desktop/Learning/c#/process-array-data/bin/Debug/net7.0/process-array-data.deps.json
+/Users/raf/Desktop/Learning/c#/process-array-data/bin/Debug/net7.0/process-array-data.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/process-array-data/bin/Debug/net7.0/process-array-data.dll
+/Users/raf/Desktop/Learning/c#/process-array-data/bin/Debug/net7.0/process-array-data.pdb
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.dll
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/refint/process-array-data.dll
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.pdb
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/process-array-data.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/process-array-data/obj/Debug/net7.0/ref/process-array-data.dll
