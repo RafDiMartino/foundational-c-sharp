@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/call-methods/bin/Debug/net7.0/call-methods
+/Users/raf/Desktop/Learning/c#/call-methods/bin/Debug/net7.0/call-methods.deps.json
+/Users/raf/Desktop/Learning/c#/call-methods/bin/Debug/net7.0/call-methods.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/call-methods/bin/Debug/net7.0/call-methods.dll
+/Users/raf/Desktop/Learning/c#/call-methods/bin/Debug/net7.0/call-methods.pdb
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.dll
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/refint/call-methods.dll
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.pdb
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/call-methods.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/call-methods/obj/Debug/net7.0/ref/call-methods.dll

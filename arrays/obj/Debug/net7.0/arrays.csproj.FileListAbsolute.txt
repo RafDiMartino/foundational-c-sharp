@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/arrays/bin/Debug/net7.0/arrays
+/Users/raf/Desktop/Learning/c#/arrays/bin/Debug/net7.0/arrays.deps.json
+/Users/raf/Desktop/Learning/c#/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/arrays/bin/Debug/net7.0/arrays.dll
+/Users/raf/Desktop/Learning/c#/arrays/bin/Debug/net7.0/arrays.pdb
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.dll
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/refint/arrays.dll
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.pdb
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/arrays/obj/Debug/net7.0/ref/arrays.dll

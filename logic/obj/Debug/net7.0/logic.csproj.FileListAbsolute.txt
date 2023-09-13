@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/logic/bin/Debug/net7.0/logic
+/Users/raf/Desktop/Learning/c#/logic/bin/Debug/net7.0/logic.deps.json
+/Users/raf/Desktop/Learning/c#/logic/bin/Debug/net7.0/logic.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/logic/bin/Debug/net7.0/logic.dll
+/Users/raf/Desktop/Learning/c#/logic/bin/Debug/net7.0/logic.pdb
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.dll
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/refint/logic.dll
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.pdb
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/logic.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/logic/obj/Debug/net7.0/ref/logic.dll

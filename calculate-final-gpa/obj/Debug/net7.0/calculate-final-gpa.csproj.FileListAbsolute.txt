@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.deps.json
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.dll
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/bin/Debug/net7.0/calculate-final-gpa.pdb
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.dll
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/refint/calculate-final-gpa.dll
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.pdb
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/calculate-final-gpa.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/calculate-final-gpa/obj/Debug/net7.0/ref/calculate-final-gpa.dll
