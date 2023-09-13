@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raf/Desktop/Learning/c#/process-array/process-array.csproj",
-      "projectName": "process-array",
-      "projectPath": "/Users/raf/Desktop/Learning/c#/process-array/process-array.csproj",
+      "projectUniqueName": "/Users/raf/Desktop/Learning/c#/process-array/Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "/Users/raf/Desktop/Learning/c#/process-array/Starter.csproj",
       "packagesPath": "/Users/raf/.nuget/packages/",
       "outputPath": "/Users/raf/Desktop/Learning/c#/process-array/obj/",
       "projectStyle": "PackageReference",

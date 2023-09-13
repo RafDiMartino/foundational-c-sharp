@@ -1,0 +1,15 @@
+/Users/raf/Desktop/Learning/c#/process-array/bin/Debug/net7.0/Starter
+/Users/raf/Desktop/Learning/c#/process-array/bin/Debug/net7.0/Starter.deps.json
+/Users/raf/Desktop/Learning/c#/process-array/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/raf/Desktop/Learning/c#/process-array/bin/Debug/net7.0/Starter.dll
+/Users/raf/Desktop/Learning/c#/process-array/bin/Debug/net7.0/Starter.pdb
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.dll
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/refint/Starter.dll
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.pdb
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/raf/Desktop/Learning/c#/process-array/obj/Debug/net7.0/ref/Starter.dll
